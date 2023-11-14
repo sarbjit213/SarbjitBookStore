@@ -9,6 +9,8 @@ Add README.txt
 Add the README.md
 In anthor PC i open the slides of the assignment2 to and i go through the slides and follow the slides.........
 
+
+
 5:20PM
 Go through 1.1 and reviewing the Homecontrollers,module review
 Go through 1.2 Debuging 
@@ -18,17 +20,31 @@ Start the 1.3 Bootstrap
 login my chrome and sarch (bootswatch.com)
 and select the theme than i download my theme bootstrap.cs/////
 
+
+
+
 5:50PM
 Rename the bootstrap.cs to bootstrapS.cs
 Than i drop the bootstrap.cs in css
+
+
 
 6:20PM
 Drag the file which you provide in site.css
 Some updates in Layout.cshtml and LoginPartial.cshtml
 
+
+
 6:40PM
 Run the project and see the output that is good
+
+
 
 7:15PM
 Add the link in Layout.cshtml
 Than run the project it succesfully run i feel good /////////
+
+14-10-2023
+8:00AM
+2.1 Create the DB
+
