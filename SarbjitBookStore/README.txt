@@ -1,4 +1,4 @@
-﻿﻿13-10-2023
+﻿﻿13-11-2023
 5:10PM
 ////////Let's start assignment 2///////
 First and Formost........ i login my PC and refresh it than open the visual studio.
@@ -44,7 +44,7 @@ Run the project and see the output that is good
 Add the link in Layout.cshtml
 Than run the project it succesfully run i feel good /////////
 
-14-10-2023
+14-11-2023
 8:00AM
 2.1 Create the DB
 buildthe application only for the confirmation that there are no errors
