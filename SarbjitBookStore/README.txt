@@ -47,4 +47,9 @@ Than run the project it succesfully run i feel good /////////
 14-10-2023
 8:00AM
 2.1 Create the DB
+buildthe application only for the confirmation that there are no errors
+i did next step but its show some errors in my project........
+I did work for half an hour to find this error than i thought and i install the miocrosoft.entityframeworkCore.tools-version5.0
+
+Than i udpate on GitHub 
 
