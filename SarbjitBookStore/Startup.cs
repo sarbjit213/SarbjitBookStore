@@ -14,6 +14,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using SarbjitSBooks.DataAccess.Repository;
+using SarbjitSBooks.DataAccess.Repository.IRepository;
 
 namespace SarbjitBookStore
 {
@@ -36,6 +38,7 @@ namespace SarbjitBookStore
             // remove options => options.SignIn.RequireConfirmedAccount = true
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
