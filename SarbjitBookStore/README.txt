@@ -53,3 +53,30 @@ I did work for half an hour to find this error than i thought and i install the 
 
 Than i udpate on GitHub 
 
+11/21/2023
+Part 3rd of assignment 2nd
+12:00pm
+Let's start the part 3
+21-11-2023
+Add file Cover Type.cs in modles
+........//////////........
+
+12:10pm
+Following the categories step by I did repository
+
+12:25
+Add the CoverType in the unitofwork
+20231121171429_AddCoverTypeToDb
+
+12:30pm
+Added CoverType interested ller for the same category
+
+12:46PM
+I added layout,index in CoverType folder add covertype.js
+
+After that in next step I following the slides side by side
+
+*********************///////////////////***************
+12:53PM
+Package manager console, run the asd-migration command and addproductToDb
+20231121181139_AddProductToDb

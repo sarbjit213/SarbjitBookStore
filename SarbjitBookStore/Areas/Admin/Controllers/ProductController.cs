@@ -56,18 +56,7 @@ namespace SarbjitBookStore.Areas.Admin.Controllers
             }
             return View(productVM);
 
-            /**Product product = new Product();
-        if (id == null)
-        {
-            return View(product);
-        }
-
-        product = _unitOfWork.Product.Get(id.GetValueOrDefault());
-        if (product == null)
-        {
-            return NotFound();
-        }
-        return View(product);**/
+        
         }
 
         [HttpPost]
