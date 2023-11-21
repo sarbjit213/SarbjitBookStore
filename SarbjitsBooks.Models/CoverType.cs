@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SarbjitsBooks.Models
 {
-    public class COverType
+    public class CoverType
     {
         [Key]
         public int Id { get; set; }

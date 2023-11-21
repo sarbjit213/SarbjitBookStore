@@ -1,6 +1,5 @@
 ﻿using SarbjitsBooks.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -15,5 +14,6 @@ namespace SarbjitBookStore.DataAccess.Data
         {
         }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<CoverType> CoverTypes { get; set; }
     }
 }
