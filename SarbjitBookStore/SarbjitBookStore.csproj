@@ -24,8 +24,4 @@
     <ProjectReference Include="..\SarbjitsBooks.Utility\SarbjitsBooks.Utility.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\Admin\Views\Product\" />
-  </ItemGroup>
-
 </Project>
