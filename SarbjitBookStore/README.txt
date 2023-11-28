@@ -91,3 +91,7 @@ its showing some errors in CoverType
 
 1:15 pm
 i looking all my errors and solve it after that it run succesfully
+
+1:23pm
+litle bit change in product.cs
+I forgot the one coloum of the list price afterthat i got it
