@@ -80,3 +80,14 @@ After that in next step I following the slides side by side
 12:53PM
 Package manager console, run the asd-migration command and addproductToDb
 20231121181139_AddProductToDb
+
+28-11-2023
+12:52
+started the part 4th
+review the slides and update the assignment
+
+//////////After that run the project 
+its showing some errors in CoverType
+
+1:15 pm
+i looking all my errors and solve it after that it run succesfully
