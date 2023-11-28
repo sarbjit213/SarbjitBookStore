@@ -33,7 +33,7 @@ namespace SarbjitsBooks.Models
 
         [Required]
         public int CoverTypeId { get; set; }
-        [ForeignKey("CategoryId")]
+        [ForeignKey(" CoverTypeId")]
         public CoverType CoverType { get; set; }
 
     }
