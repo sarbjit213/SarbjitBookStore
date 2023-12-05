@@ -1,4 +1,4 @@
-﻿﻿13-11-2023
+﻿2023-11-13﻿
 5:10PM
 ////////Let's start assignment 2///////
 First and Formost........ i login my PC and refresh it than open the visual studio.
@@ -44,7 +44,7 @@ Run the project and see the output that is good
 Add the link in Layout.cshtml
 Than run the project it succesfully run i feel good /////////
 
-14-11-2023
+2023-11-14 
 8:00AM
 2.1 Create the DB
 buildthe application only for the confirmation that there are no errors
@@ -53,9 +53,10 @@ I did work for half an hour to find this error than i thought and i install the 
 
 Than i udpate on GitHub 
 
-11/21/2023
+2023-11-21 
 Part 3rd of assignment 2nd
 12:00pm
+
 Let's start the part 3
 21-11-2023
 Add file Cover Type.cs in modles
@@ -64,7 +65,7 @@ Add file Cover Type.cs in modles
 12:10pm
 Following the categories step by I did repository
 
-12:25
+12:25pm
 Add the CoverType in the unitofwork
 20231121171429_AddCoverTypeToDb
 
@@ -81,8 +82,8 @@ After that in next step I following the slides side by side
 Package manager console, run the asd-migration command and addproductToDb
 20231121181139_AddProductToDb
 
-28-11-2023
-12:52
+2023-11-28 
+12:52pm
 started the part 4th
 review the slides and update the assignment
 
